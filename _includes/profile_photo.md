@@ -9,6 +9,6 @@
   <a href="https://github.com/arainbilal" style="text-decoration:none;"><i class="fab fa-github" style="font-size:1.5em;color:black;"></i></a>&nbsp;
   <a href="https://www.linkedin.com/in/bilalarain2015" style="text-decoration:none;"><i class="fab fa-linkedin" style="font-size:1.5em;color:black;"></i></a> &nbsp;
   <!--
-  <a href="{{ site.url }}/assets/OmurArslan_CV2019.pdf" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
+  <a href="{{ site.url }}/assets/BilalArain_CV.pdf" style="text-decoration:none"><i class="ai ai-cv-square big-icon" style="font-size:1.5em;color:black;"></i></a>
   -->
 </div> 
