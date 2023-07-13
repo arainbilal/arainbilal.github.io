@@ -1,2 +1,5 @@
-# arainbilal.github.io
-This repository includes files for my personal website hosted on Github pages
+# Description
+
+The repository is my personal website hosted by Github pages. The website [https://arainbilal.github.io/](https://arainbilal.github.io/) provides information about my research and teaching profile.
+
+

@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.inner {
+  width: 840px;
+  margin: 0 auto;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+  height: 1px;
+  padding-bottom: 0em;
+  margin-top: 0em;
+  line-height: 1px;
+  background: transparent url('../images/hr.png') 50% 0 no-repeat;
+  border: none;
+}
+
+ul li {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 10px;
+}
+
+ul {
+  padding-left:30px;
+  margin-bottom: 20px;
+}
