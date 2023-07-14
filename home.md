@@ -32,7 +32,7 @@
   </ul>
 </div>
 
-<div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:0.5em;">
+<div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:2em;">
   <a href="https://www.unsw.edu.au/canberra"><img src="/assets/images/UNSW_Canberra.png" style="height:50px"></a> &nbsp; &nbsp;
   <a href="https://www.csiro.au/en/"><img src="/assets/images/CSIRO_logo.png" style="height:50px"></a> &nbsp; &nbsp;
 </div>
