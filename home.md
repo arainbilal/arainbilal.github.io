@@ -33,8 +33,11 @@
 </div>
 
 <div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:-0.5em;">
-  <a href="https://www.unsw.edu.au/canberra"><img src="/assets/images/UNSW_Canberra.png" style="height:50px"></a> &nbsp; &nbsp;
-  <a href="https://www.csiro.au/en/"><img src="/assets/images/CSIRO_logo.png" style="height:50px"></a> &nbsp; &nbsp;
+  <a href="https://www.unsw.edu.au/canberra"><img src="/assets/images/UNSW.png" style="height:50px"></a> &nbsp; &nbsp;
+  <a href="https://www.csiro.au/en/"><img src="/assets/images/CSIRO.png" style="height:50px"></a> &nbsp; &nbsp;
+  <a href="https://www.topconpositioning.com/"><img src="/assets/images/Topcon.png" style="height:50px"></a> &nbsp; &nbsp;
+  <a href="https://www.agjunction.com/"><img src="/assets/images/AgJunction.png" style="height:50px"></a> &nbsp; &nbsp;
+  <a href="https://www.qut.edu.au/"><img src="/assets/images/QUT.png" style="height:50px"></a> &nbsp; &nbsp;
 </div>
 
 <!--
