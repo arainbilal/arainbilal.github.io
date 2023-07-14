@@ -8,8 +8,7 @@
   </div>
 </div>
 
-<hr>
-
+----------------------------------------------------------
 <div style="clear:both;padding-top:2em;"> 
   <h2> Education </h2>
   <ul style="padding-left:30px;">
