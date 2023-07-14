@@ -8,13 +8,28 @@
   </div>
 </div>
 
+<hr>
+
 <div style="clear:both;padding-top:2em;"> 
   <h2> Education </h2>
   <ul style="padding-left:30px;">
-    <li><strong>PhD in Electrical Engineering</strong>, <a href="https://www.unsw.edu.au/">University of New South Wales</a>, Australia, 2009</li>
-    <li><strong>BE(Hons) in Industrial Electronics Engineering </strong>, <a href="https://www.neduet.edu.pk/">NED University of Engineering and Technology</a>, Pakistan, 2002</li>
+    <li><strong>PhD in Electrical Engineering</strong>, <a href="https://www.unsw.edu.au/">University of New South Wales</a>, Australia, 2009.</li>
+    <li><strong>BE (Hons) in Industrial Electronics Engineering </strong>, <a href="https://www.neduet.edu.pk/">NED University of Engineering and Technology</a>, Pakistan, 2002.</li>
   </ul>
 </div>
+
+<div style="clear:both;padding-top:2em;"> 
+  <h2> Awards </h2>
+  <ul style="padding-left:30px;">
+    <li>Nominated for the QUT Vice-Chancellor’s Awards for Excellence, QUT, 2020.</li>
+    <li>Best Team Award - Advanced Terrain Detection, QUT, 2020.</li>
+    <li>Queensland iAward (Smart Skies Project), 2011</li>
+    <li>The University College International Postgraduate Scholarship, UNSW, 2009</li>
+    <li>The University College Postgraduate Research Scholarship, UNSW, 2005.</li>
+    <li>Best software design in All Pakistan Software Competition (FAST-NU), 2001.</li>
+  </ul>
+</div>
+
 
 <!-- Example of weblinks -->
 <!-- text <a href="https://www.tue.nl/en/our-university/departments/mechanical-engineering/">Mechanical Engineering</a> text -->
