@@ -35,22 +35,11 @@
 <div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:0.5em;">
   <a href="https://www.unsw.edu.au/canberra"><img src="/assets/images/UNSW.png" style="height:50px"></a> &nbsp; &nbsp;
   <a href="https://www.csiro.au/en/"><img src="/assets/images/CSIRO.png" style="height:50px"></a> &nbsp; &nbsp;
+  <a href="https://www.qut.edu.au/"><img src="/assets/images/QUT.png" style="height:50px"></a> &nbsp; &nbsp;
   <a href="https://www.topconpositioning.com/"><img src="/assets/images/Topcon.png" style="height:50px"></a> &nbsp; &nbsp;
   <a href="https://www.agjunction.com/"><img src="/assets/images/AgJunction.png" style="height:50px"></a> &nbsp; &nbsp;
-  <a href="https://www.qut.edu.au/"><img src="/assets/images/QUT.png" style="height:50px"></a> &nbsp; &nbsp;
-
+  <a href="https://www.dubaifuture.ae/"><img src="/assets/images/DFF.jpg" style="height:50px"></a> &nbsp; &nbsp;
 </div>
-
-<!--
-<div align="center" style="padding-top:1em;padding-bottom:0em;margin-bottom:-0.5em;">
- <a href="https://www.hacettepe.edu.tr/english/"><img src="/assets/images/hacettepe-logo.png" style="height:50px"></a> &nbsp; &nbsp;
- <a href="http://www.metu.edu.tr/"><img src="/assets/images/metu-logo.png" style="height:50px"></a> &nbsp; &nbsp;
- <a href="http://w3.bilkent.edu.tr/bilkent/"><img src="/assets/images/bilkent-logo.png" style="height:50px"></a> &nbsp; &nbsp;
- <a href="https://www.upenn.edu/"><img src="/assets/images/upenn-logo.png" alt="UPenn" title="University of Pennsylvania" style="height:50px"></a> &nbsp; &nbsp;
- <a href="https://is.mpg.de/"><img src="/assets/images/mpi-logo.png" alt="MPI" title="Max Planck Institute for Intelligent Systems" style="height:50px"></a> &nbsp; &nbsp;
- <a href="https://www.tue.nl/en/"><img src="/assets/images/tue-logo.png" alt="TU/e" title="Eindhoven University of Technology" style="height:50px"></a> &nbsp; &nbsp;
- </div>
--->
 
 <!-- Example of weblinks -->
 <!-- text <a href="https://www.tue.nl/en/our-university/departments/mechanical-engineering/">Mechanical Engineering</a> text -->

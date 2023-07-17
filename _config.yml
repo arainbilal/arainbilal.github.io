@@ -1,5 +1,5 @@
 theme: minima
 title: Bilal Arain   
 description: Bilal Arain, PhD - Robotics Researcher 
-plugins:
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-sitemap
